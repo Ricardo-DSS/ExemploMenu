@@ -1,0 +1,14 @@
+C:\Users\ricardo.ssilva44\source\repos\ExemploMenu\ExemploMenu\bin\Debug\ExemploMenu.exe.config
+C:\Users\ricardo.ssilva44\source\repos\ExemploMenu\ExemploMenu\bin\Debug\ExemploMenu.exe
+C:\Users\ricardo.ssilva44\source\repos\ExemploMenu\ExemploMenu\bin\Debug\ExemploMenu.pdb
+C:\Users\ricardo.ssilva44\source\repos\ExemploMenu\ExemploMenu\obj\Debug\ExemploMenu.csproj.AssemblyReference.cache
+C:\Users\ricardo.ssilva44\source\repos\ExemploMenu\ExemploMenu\obj\Debug\ExemploMenu.Atualizar.resources
+C:\Users\ricardo.ssilva44\source\repos\ExemploMenu\ExemploMenu\obj\Debug\ExemploMenu.Cadastrar.resources
+C:\Users\ricardo.ssilva44\source\repos\ExemploMenu\ExemploMenu\obj\Debug\ExemploMenu.Consultar.resources
+C:\Users\ricardo.ssilva44\source\repos\ExemploMenu\ExemploMenu\obj\Debug\ExemploMenu.Excluir.resources
+C:\Users\ricardo.ssilva44\source\repos\ExemploMenu\ExemploMenu\obj\Debug\ExemploMenu.Form1.resources
+C:\Users\ricardo.ssilva44\source\repos\ExemploMenu\ExemploMenu\obj\Debug\ExemploMenu.Properties.Resources.resources
+C:\Users\ricardo.ssilva44\source\repos\ExemploMenu\ExemploMenu\obj\Debug\ExemploMenu.csproj.GenerateResource.cache
+C:\Users\ricardo.ssilva44\source\repos\ExemploMenu\ExemploMenu\obj\Debug\ExemploMenu.csproj.CoreCompileInputs.cache
+C:\Users\ricardo.ssilva44\source\repos\ExemploMenu\ExemploMenu\obj\Debug\ExemploMenu.exe
+C:\Users\ricardo.ssilva44\source\repos\ExemploMenu\ExemploMenu\obj\Debug\ExemploMenu.pdb
